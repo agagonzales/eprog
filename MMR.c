@@ -20,4 +20,4 @@ int main(){
 				else{
 					printf("The difference of the MMR of two players is: %d", c);
 				}
-}
+}		
