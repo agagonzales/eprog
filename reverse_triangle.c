@@ -2,6 +2,7 @@
 #include<conio.h>
 
 int main(){
+	
 	int i;
 	int j;
 	int num;
